@@ -15,5 +15,5 @@ def main():
 
 print(main())
 
-
+st = "Просто строка"
 
